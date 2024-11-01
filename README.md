@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MissSudo 
+- 👀 I’m interested in full-stack development, software systems design, and creating effective order management solutions.
+- 🌱 I’m currently learning more advanced Laravel features and exploring system integrations for finance and accounts using Zoho at Hekima Education Centre.
+- 💞️ I’m looking to collaborate on projects involving web applications, dashboards, and point-of-sale systems, particularly those focusing on inventory and transaction management.
+- 📫 How to reach me: You can reach me on GitHub or via LinkedIn.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: When I'm not coding, you might find me playing badminton, a game of chess, or planning my next travel adventure.
